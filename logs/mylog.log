@@ -1,0 +1,52 @@
+[INFO ] 2024-04-14 14:20:01.820 [main] StepDef - Setup method is executed
+[INFO ] 2024-04-14 14:20:03.780 [main] StepDef - Chrome browser is launched
+[INFO ] 2024-04-14 14:24:52.943 [main] StepDef - Setup method is executed
+[INFO ] 2024-04-14 14:24:53.305 [main] StepDef - Chrome browser is launched
+[INFO ] 2024-04-14 14:24:58.579 [main] StepDef - URL is opened
+[INFO ] 2024-04-14 14:24:59.142 [main] StepDef - User enter email Id
+[INFO ] 2024-04-14 14:25:01.189 [main] StepDef - User clicked on login button
+[WARN ] 2024-04-14 14:25:01.204 [main] StepDef - Page title is matched
+[INFO ] 2024-04-14 14:25:05.462 [main] StepDef - User clicked on logout button
+[WARN ] 2024-04-14 14:25:05.558 [main] StepDef - Page title is matched
+[INFO ] 2024-04-14 19:41:24.661 [main] StepDef - Setup method is executed
+[INFO ] 2024-04-14 19:41:24.915 [main] StepDef - Chrome browser is launched
+[INFO ] 2024-04-14 19:41:29.520 [main] StepDef - URL is opened
+[INFO ] 2024-04-14 19:41:30.172 [main] StepDef - User enter email Id
+[INFO ] 2024-04-14 19:41:32.593 [main] StepDef - User clicked on login button
+[INFO ] 2024-04-14 20:54:31.388 [main] StepDef - Setup method is executed
+[INFO ] 2024-04-14 20:54:31.802 [main] StepDef - Chrome browser is launched
+[INFO ] 2024-04-14 20:54:34.291 [main] StepDef - URL is opened
+[INFO ] 2024-04-14 20:54:36.792 [main] StepDef - User enter email Id
+[INFO ] 2024-04-14 20:54:39.253 [main] StepDef - User clicked on login button
+[WARN ] 2024-04-14 20:54:41.113 [main] StepDef - Page title is matched
+[INFO ] 2024-04-14 20:54:45.706 [main] StepDef - User clicked on logout button
+[WARN ] 2024-04-14 20:54:45.714 [main] StepDef - Page title is matched
+[INFO ] 2024-04-15 11:21:17.787 [main] StepDef - Setup method is executed
+[INFO ] 2024-04-15 11:21:18.759 [main] StepDef - Chrome browser is launched
+[INFO ] 2024-04-15 11:21:22.504 [main] StepDef - URL is opened
+[INFO ] 2024-04-15 11:21:25.444 [main] StepDef - User enter email Id
+[INFO ] 2024-04-15 11:21:28.447 [main] StepDef - User clicked on login button
+[WARN ] 2024-04-15 11:21:29.917 [main] StepDef - Page title is matched
+[INFO ] 2024-04-15 11:21:35.811 [main] StepDef - User clicked on logout button
+[WARN ] 2024-04-15 11:21:35.872 [main] StepDef - Page title is matched
+[INFO ] 2024-04-15 11:24:19.325 [main] StepDef - Setup method is executed
+[INFO ] 2024-04-15 11:24:19.531 [main] StepDef - Chrome browser is launched
+[INFO ] 2024-04-15 11:24:26.904 [main] StepDef - URL is opened
+[INFO ] 2024-04-15 11:24:27.421 [main] StepDef - User enter email Id
+[INFO ] 2024-04-15 11:24:31.072 [main] StepDef - User clicked on login button
+[WARN ] 2024-04-15 11:24:32.773 [main] StepDef - Page title is matched
+[INFO ] 2024-04-15 11:24:38.219 [main] StepDef - User clicked on logout button
+[WARN ] 2024-04-15 11:24:38.252 [main] StepDef - Page title is matched
+[INFO ] 2024-04-15 14:57:32.274 [main] StepDef - Setup method is executed
+[INFO ] 2024-04-15 14:57:32.552 [main] StepDef - Chrome browser is launched
+[INFO ] 2024-04-15 14:57:38.338 [main] StepDef - URL is opened
+[INFO ] 2024-04-15 14:57:38.658 [main] StepDef - User enter email Id
+[INFO ] 2024-04-15 14:57:41.093 [main] StepDef - User clicked on login button
+[INFO ] 2024-04-15 14:57:55.382 [main] StepDef - Setup method is executed
+[INFO ] 2024-04-15 14:57:55.606 [main] StepDef - Chrome browser is launched
+[INFO ] 2024-04-15 14:58:02.361 [main] StepDef - URL is opened
+[INFO ] 2024-04-15 14:58:02.655 [main] StepDef - User enter email Id
+[INFO ] 2024-04-15 14:58:06.719 [main] StepDef - User clicked on login button
+[WARN ] 2024-04-15 14:58:06.825 [main] StepDef - Page title is matched
+[INFO ] 2024-04-15 14:58:11.172 [main] StepDef - User clicked on logout button
+[WARN ] 2024-04-15 14:58:11.185 [main] StepDef - Page title is matched

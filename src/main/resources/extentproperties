@@ -1,0 +1,13 @@
+extent.reporter.spark.start=true
+extent.reporter.spark.out=SparkReport/MySparkReport.html
+
+screenshot.dir=Screenshot/
+screenshot.rel.path=../Screenshot
+
+#customized the report folder name by adding folder name
+basefolder.name=test-output/SparkReport
+basefolder.datetimepattern=d-MMM-YY HH-mm-ss
+
+systeminfo.user=Akshay Thorat
+system.info.build=0.1
+systeminfo.AppName=CucumberFramework
